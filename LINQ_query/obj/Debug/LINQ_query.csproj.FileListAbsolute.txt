@@ -1,0 +1,7 @@
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\bin\Debug\LINQ_query.exe.config
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\bin\Debug\LINQ_query.exe
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\bin\Debug\LINQ_query.pdb
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\obj\Debug\LINQ_query.csprojAssemblyReference.cache
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\obj\Debug\LINQ_query.csproj.CoreCompileInputs.cache
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\obj\Debug\LINQ_query.exe
+C:\Users\hrijo\source\repos\LINQ_query\LINQ_query\obj\Debug\LINQ_query.pdb
