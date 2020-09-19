@@ -11,6 +11,10 @@ namespace LINQ_query
     {
         static void Main(string[] args)
         {
+            SearchItem item = new SearchItem();
+
+            item.SearchWord();
+
             // Get data source
             string[] language = {"Communication", "Collaboration", "Love", "Peace",
                                     "Complementry", "Compassionate", "Calm", "Courteous", "Supportive", "Motivative", "Helpful"};
@@ -23,6 +27,7 @@ namespace LINQ_query
             {
                 Debug.WriteLine(words);
             }
+
         }
     }
 }
