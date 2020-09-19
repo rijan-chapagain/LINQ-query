@@ -18,6 +18,11 @@ namespace LINQ_query
             var positiveWords = from lang in language
                          where lang.Contains('C')
                          select lang;
+            // Execute Query
+            foreach (var words in positiveWords)
+            {
+                Debug.WriteLine(words);
+            }
         }
     }
 }
